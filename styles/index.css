@@ -1,0 +1,87 @@
+.body-back {
+    background-color: #F1F8F8;
+}
+
+
+
+.logo {
+    color: #000;
+    font-family: 'Bruno Ace SC', sans-serif;;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo-content {
+    max-width: 359px;
+    width: 100%;
+    height: 59px;
+    margin-left: 540px;
+    margin-right: 541px;
+    margin-top: 5px;
+}
+.section {
+display: inline-block;
+}
+
+.header {
+    color: #7D9479;
+    font-family: 'Michroma', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+.header-content {
+    max-width: 490px;
+    width: 100%;
+    height: 204px;
+    margin-left: 86px;
+    margin-top: 90px;
+}
+
+.text {
+    color: #000;
+    font-family: 'Metrophobic', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-content {
+    max-width: 502px;
+    width: 100%;
+    height: 156px;
+    margin-top: 58px;
+    margin-left: 86px;
+    margin-right: 15px;
+}
+
+.image {
+    width: 601px;
+    height: 571px;
+    margin-top: 90px;
+}
+
+.button {
+    width: 250px;
+    height: 86px;
+    margin-top: 58px;
+    margin-left: 211.5px;
+    border-radius: 15px;
+    background: #000;
+    color: #F1F8F8;
+    text-align: center;
+    font-family: 'Metrophobic', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none; 
+}
+
